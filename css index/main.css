@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(227, 233, 231);
+}
+
+h1 {
+background-color: rgb(42, 165, 63);
+justify-content: center;
+
+}
+
+
+#paginas {
+    height: 30px;
+    padding: 300;
+    font-size: 30px;
+    justify-content: center;
+}
